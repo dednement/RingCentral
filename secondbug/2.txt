@@ -1,0 +1,19 @@
+Summary:
+"SignIn" function works incorrect
+
+Description:
+After created an account in desktop version "RingCentral".
+System didn't find my account on web-site.
+
+Steps to reproduce:
+1. Create account in desktop version with help by "Google account"
+2. Open web-site https://v.ringcentral.com/welcome/join/
+3. Click on button "SignIn"
+4. Entire in field "Email or Phone Number" email which you used in desktop app
+
+Actual result:
+System is saying "Sorry, we don't recognize your email address."
+
+Expected result:
+System is authorizating me.
+

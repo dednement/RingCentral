@@ -1,0 +1,10 @@
+Summary:
+The icon "Arrow down" is pointing to the installer, points to an empty space
+Steps to reproduce:.
+1. Open web-site https://v.ringcentral.com/join/020098650
+2. Select "Download"
+3. After the file downloaded click on cross near "Show all"(Show all files which you downloaded earlier)
+Actual Result:
+The icon "Arrow down" stays on same place.
+Expected Result:
+The icon "Arrow down" had to be gone.
